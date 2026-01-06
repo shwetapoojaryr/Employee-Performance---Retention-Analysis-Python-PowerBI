@@ -1,5 +1,5 @@
 # Employee-Performance-and-Retention-Analysis
-<!--
+
 one line summary
 
 overview
@@ -24,7 +24,7 @@ strategies by analysing the relationship between key employee metrics.
 
 datasets
 [Link Text](https://github.com/shwetapoojaryr/Employee-Performance---Retention-Analysis-Python-PowerBI/blob/main/employees_dataset.csv)
-
+<!--
 tools and technologies
 Methods
 key insights
