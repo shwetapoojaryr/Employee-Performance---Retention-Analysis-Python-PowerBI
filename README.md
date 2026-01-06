@@ -9,6 +9,7 @@ This project focuses on analysing employee performance and retention patterns wi
 problem statement:
 
 The objective of this project is to analyse HR data to assess employee performance, identify trends influencing retention, and provide recommendations for improving employee productivity and reducing turnover.
+
 Specifically, the project aims to: 
 
 ● Identify performance patterns based on factors such as age, education, department, and training. 
