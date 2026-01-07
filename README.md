@@ -1,12 +1,15 @@
 # Employee-Performance-and-Retention-Analysis
 
-one line summary
+Analysed employee performance and retention patterns using HR data to uncover factors influencing productivity, engagement, and employee tenure, to help organizations reduce turnover and improve workforce efficiency through data-driven insights using Python Libraries, Jupyter Notebook, and Power BI.
+## Table of Contents
+<a herf = "overview"> Overview</a>
 
-overview:
+
+<h2><a class="anchor" id="overview"></a> Overview</h2>
 
 This project focuses on analysing employee performance and retention patterns within an organisation. By leveraging HR data, the goal is to identify key factors influencing employee productivity, performance, and retention, and provide actionable insights for improving workforce efficiency, reducing turnover, and fostering a positive work environment. The project will employ data analysis techniques, including exploratory data analysis (EDA), trend analysis, and visualisation to help HR managers make data-driven decisions for workforce management. 
 
-problem statement:
+Business Problem:
 
 The objective of this project is to analyse HR data to assess employee performance, identify trends influencing retention, and provide recommendations for improving employee productivity and reducing turnover.
 
@@ -23,7 +26,7 @@ Datasets:
 [Employee Dataset](https://github.com/shwetapoojaryr/Employee-Performance---Retention-Analysis-Python-PowerBI/blob/main/employees_dataset.csv)
 
 <!--
-tools and technologies:
+Tools and Technologies:
 
 Python
 
@@ -31,15 +34,13 @@ Power BI
 
 Methods
 
-key insights
+Key Insights
 
-dashboards/model/output
+Dashboards/model/output
 
-how to run this project
+How to Run this Project
 
-results and conclusion
-
-future work
+Results and Conclusion
 
 author & contact
 
