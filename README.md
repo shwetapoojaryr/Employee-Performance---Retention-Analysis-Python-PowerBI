@@ -93,7 +93,6 @@ Encoded Categorical variables and consistency in data formatting.
 
 - Summarizing performance metrics by creating a performance_metrics table 
 <img width="661" height="280" alt="image" src="https://github.com/user-attachments/assets/6b80df18-c3f9-4d93-99a1-a33934e8ddda" />
-<img width="559" height="727" alt="image" src="https://github.com/user-attachments/assets/839cec72-f0f7-4bf4-bc2b-92b5fa82f79e" />
 
 - Analysing key metrics such as KPI Achievements vs performance, awards impact on performance,length of service analysis 
 <img width="450" height="320" alt="image" src="https://github.com/user-attachments/assets/55d05b54-834b-4431-839f-926234708888" />
