@@ -94,8 +94,24 @@ Clean and preprocess the dataset by handling missing values, encoding categorica
 
 - Certain departments have shorter service lengths, indicating engagement gaps 
 
-- Employees with lower previous year ratings are more likely to exit early 
+- Employees with lower previous year ratings are more likely to exit early
+- 
+**Workforce Overview**
+- Employees are mostly in the early to mid-career range (20–40 years). 
+- Distribution across departments and regions varies, highlighting operational concentration risks. 
+- Recruitment channels influence performance outcomes, indicating differences in candidate quality.
 
+**Performance Insights**
+  
+- High training scores, KPI achievement, and awards strongly correlate with better performance. 
+- Consistent performers continue to excel year-over-year. 
+- Departments with lower performance may need targeted interventions.
+
+**Retention Trends**
+- High retention: Employees aged 30–40, award winners, and consistent KPI achievers. 
+- Retention risk: Early-career employees (20–30), low KPI achievers, and employees in certain departments with shorter tenure. 
+- Effective training and recognition directly improve retention.
+- 
 <h2><a class= "#visualisations--dashboard"></a>Visualisations & Dashboard</h2>
 
 
