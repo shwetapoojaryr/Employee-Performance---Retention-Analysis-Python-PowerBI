@@ -60,7 +60,7 @@ Specifically, the project aims to:
 
 Handled the missing values with fillna(), median(), & mode () functions 
 
-<img width="448" height="403" alt="image" src="https://github.com/user-attachments/assets/583dee76-6786-44db-9f4f-073eb9c79a5a" />
+<img width="400" height="380" alt="image" src="https://github.com/user-attachments/assets/583dee76-6786-44db-9f4f-073eb9c79a5a" />
 
 Encoded Categorical variables and consistency in data formatting.
 
