@@ -70,19 +70,19 @@ Encoded Categorical variables and consistency in data formatting.
 
 **Initial Exploration: Used df.info() to check structure and .describe() for summary statistics.**
 
-<img width="400" height="350" alt="image" src="https://github.com/user-attachments/assets/f4857dce-de20-4b61-9b35-27c4a48f55de" />
-<img width="700" height="250" alt="image" src="https://github.com/user-attachments/assets/5544b774-9550-4848-9ea2-1de17a4461e2" />
+<img width="350" height="270" alt="image" src="https://github.com/user-attachments/assets/f4857dce-de20-4b61-9b35-27c4a48f55de" />
+<img width="650" height="200" alt="image" src="https://github.com/user-attachments/assets/5544b774-9550-4848-9ea2-1de17a4461e2" />
 
 **Found the missing and duplicate values in the dataset using isnull() and duplicated() functions.** 
 
-<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/a4cef920-6129-4be8-9af7-47195dfab961" />
+<img width="350" height="450" alt="image" src="https://github.com/user-attachments/assets/a4cef920-6129-4be8-9af7-47195dfab961" />
 
 **Found the distribution of key numerical variables and categorical variables.**
 
-<img width="650" height="450" alt="image" src="https://github.com/user-attachments/assets/f1821aaf-91e0-47cc-818e-607f84b0fa99" />
-<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/950b57e0-9dc6-4071-a9f5-4c744addbc9c" />
-<img width="550" height="400" alt="image" src="https://github.com/user-attachments/assets/f3f04d71-a4d7-4e43-953d-4175a816b5d6" />
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/ac7b0c4c-a891-4680-8c33-27fd1d698dd0" />
+<img width="550" height="350" alt="image" src="https://github.com/user-attachments/assets/f1821aaf-91e0-47cc-818e-607f84b0fa99" />
+<img width="550" height="350" alt="image" src="https://github.com/user-attachments/assets/950b57e0-9dc6-4071-a9f5-4c744addbc9c" />
+<img width="550" height="350" alt="image" src="https://github.com/user-attachments/assets/f3f04d71-a4d7-4e43-953d-4175a816b5d6" />
+<img width="550" height="350" alt="image" src="https://github.com/user-attachments/assets/ac7b0c4c-a891-4680-8c33-27fd1d698dd0" />
 
 **Outlier detection using seaborn library.**
 
@@ -92,19 +92,19 @@ Encoded Categorical variables and consistency in data formatting.
 <h2><a class= "#key-metric-analysis"></a>Key Metric Analysis</h2>
 
 - Summarizing performance metrics by creating a performance_metrics table 
-<img width="701" height="280" alt="image" src="https://github.com/user-attachments/assets/6b80df18-c3f9-4d93-99a1-a33934e8ddda" />
-<img width="559" height="747" alt="image" src="https://github.com/user-attachments/assets/839cec72-f0f7-4bf4-bc2b-92b5fa82f79e" />
-<img width="609" height="427" alt="image" src="https://github.com/user-attachments/assets/6c09f80e-470d-4d20-8bd6-fd931d2bbbaa" />
+<img width="661" height="280" alt="image" src="https://github.com/user-attachments/assets/6b80df18-c3f9-4d93-99a1-a33934e8ddda" />
+<img width="559" height="727" alt="image" src="https://github.com/user-attachments/assets/839cec72-f0f7-4bf4-bc2b-92b5fa82f79e" />
+<img width="590" height="410" alt="image" src="https://github.com/user-attachments/assets/6c09f80e-470d-4d20-8bd6-fd931d2bbbaa" />
 
 - Analysing key metrics such as KPI Achievements vs performance, awards impact on performance,length of service analysis 
-<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/55d05b54-834b-4431-839f-926234708888" />
-<img width="570" height="700" alt="image" src="https://github.com/user-attachments/assets/34dd9892-0d09-4acf-a007-3591ea32ad39" />
+<img width="450" height="320" alt="image" src="https://github.com/user-attachments/assets/55d05b54-834b-4431-839f-926234708888" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/34dd9892-0d09-4acf-a007-3591ea32ad39" />
 
 - Retention Trends Analysis 
 Trend analysis assuming longer length of service = higher retention 
 Analysing retention by age group, education, department, training impact on retention. 
-<img width="600" height="780" alt="image" src="https://github.com/user-attachments/assets/748587ad-9e93-4d71-b3f8-dfa197e01034" />
-<img width="630" height="800" alt="image" src="https://github.com/user-attachments/assets/c232ead2-f2af-442a-8d03-e17f9d78a4ff" />
+<img width="550" height="780" alt="image" src="https://github.com/user-attachments/assets/748587ad-9e93-4d71-b3f8-dfa197e01034" />
+<img width="600" height="750" alt="image" src="https://github.com/user-attachments/assets/c232ead2-f2af-442a-8d03-e17f9d78a4ff" />
 
 <h2><a class= "#research-factors"></a>Research Factors</h2>
 
