@@ -46,7 +46,17 @@ Methods
 
 <h2><a class="anchor" id ="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
 
-<h2><a class= "#research-questions--key-findings"></a>Research Questions & Key Findings</h2>
+<h2><a class= "#research-questions--key-findings"></a><!--Research Questions--> & Key Findings</h2>
+
+Employees with higher training scores and KPI achievement show longer retention 
+
+Award-winning employees consistently outperform peers 
+
+Mid-career age groups (30–40) show the highest retention 
+
+Certain departments have shorter service lengths, indicating engagement gaps 
+
+Employees with lower previous year ratings are more likely to exit early 
 
 <h2><a class= "#dashboard"></a>Dashboard</h2>
 
@@ -54,7 +64,16 @@ Methods
 
 <h2><a class= "#final-recommendations"></a>Final Recommendations</h2>
 
+HR Recommendations:
+
+1. Increase targeted training programs for low-performing departments. 
+
+2. Introduce recognition programs to improve motivation and retention. 
+
+3. Focus retention strategies on early-career employees (20–30 age group). 
+
+4. Use KPI performance as an early indicator for engagement interventions. 
+
+5. Invest in continuous learning for employees with high potential but low ratings. 
+
 <h2><a class= "#author--contact"></a>Author & Contact</h2>
-
-
--->
