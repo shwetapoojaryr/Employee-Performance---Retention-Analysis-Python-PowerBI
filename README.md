@@ -39,20 +39,7 @@ Specifically, the project aims to:
 
 - Rows: 17417
 - Columns: 13
-- Key Features :  Employee Identifier (employee_id)
-   
-  Organizational Attributes (department, region)
-  
-  Demographic Features (education, gender, age)
-   
-  Recruitment Information (recruitment_channel)
-  
-  Training & Development (avg_training_score, no_of_trainings)
-   
-  Performance Metrics (KPIs_met_more_than_80, previous_year_rating) 
-
-  Recognition & Experience (length_of_service,  awards_won) 
-
+- Key Features :  Employee Identifier (employee_id), Organizational Attributes (department, region), Demographic Features (education, gender, age), Recruitment Information (recruitment_channel), Training & Development (avg_training_score, no_of_trainings), Performance Metrics (KPIs_met_more_than_80, previous_year_rating), Recognition & Experience (length_of_service,  awards_won)
 - Missing Data: 771 values in education column & 1363 in previous_year_rating column. 
 
 <h2><a class ="anchor" id ="tools--technologies"></a>Tools and Technologies</h2>
@@ -70,7 +57,7 @@ Specifically, the project aims to:
 
 <h2><a class="anchor" id ="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
 
-Data Preprocessing: 
+**Data Preprocessing**
 
 Clean and preprocess the dataset by handling missing values, encoding categorical variables, and ensuring consistency in data formatting. 
 
@@ -84,7 +71,7 @@ Clean and preprocess the dataset by handling missing values, encoding categorica
 
 **Predictive Insights: Based on the analysis, provide actionable recommendations to HR for improving employee retention and performance management strategies.**
 
-<h2><a class= "#key-findings"></a>\Key Findings</h2>
+<h2><a class= "#key-findings"></a>Key Findings</h2>
 
 - Employees with higher training scores and KPI achievement show longer retention 
 
@@ -95,7 +82,7 @@ Clean and preprocess the dataset by handling missing values, encoding categorica
 - Certain departments have shorter service lengths, indicating engagement gaps 
 
 - Employees with lower previous year ratings are more likely to exit early
-- 
+
 **Workforce Overview**
 - Employees are mostly in the early to mid-career range (20–40 years). 
 - Distribution across departments and regions varies, highlighting operational concentration risks. 
@@ -111,7 +98,7 @@ Clean and preprocess the dataset by handling missing values, encoding categorica
 - High retention: Employees aged 30–40, award winners, and consistent KPI achievers. 
 - Retention risk: Early-career employees (20–30), low KPI achievers, and employees in certain departments with shorter tenure. 
 - Effective training and recognition directly improve retention.
-- 
+ 
 <h2><a class= "#visualisations--dashboard"></a>Visualisations & Dashboard</h2>
 
 
