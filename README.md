@@ -10,7 +10,8 @@ Analysed employee performance and retention patterns using HR data to uncover fa
 - <a herf = "#project-structure">Project Structure</a>
 - <a herf = "#data-cleaning--preparation">Data Cleaning & Preparation</a>
 - <a herf = "#exploratory-data-analysis-eda">Exploratory Data Ananlysis (EDA)</a>
-- <a herf = "#research-factors-key-findings">Research Factors & Key Findings</a>
+- <a herf = "#research-factors">Research Factors</a>
+- <a herf = "#key-findings">Key Findings</a>
 - <a herf = "#visualisations--dashboard">Dashboard</a>
 - <a herf = "#how-to-run-this-project">How to Run this Project</a>
 - <a herf = "#final-recommendations">Final Recommendations</a>
@@ -36,6 +37,24 @@ Specifically, the project aims to:
 
 [Employee Dataset](https://github.com/shwetapoojaryr/Employee-Performance---Retention-Analysis-Python-PowerBI/blob/main/employees_dataset.csv)
 
+- Rows: 17417
+- Columns: 13
+- Key Features :  Employee Identifier (employee_id)
+   
+                  Organizational Attributes (department, region)
+  
+                  Demographic Features (education, gender, age)
+   
+                  Recruitment Information (recruitment_channel)
+  
+                  Training & Development (avg_training_score, no_of_trainings)
+   
+                  Performance Metrics (KPIs_met_more_than_80, previous_year_rating) 
+
+                  Recognition & Experience (length_of_service,  awards_won) 
+
+- Missing Data: 771 values in education column & 1363 in previous_year_rating column. 
+
 <h2><a class ="anchor" id ="tools--technologies"></a>Tools and Technologies</h2>
 
 - Python (Pandas, Matplotlib, Seaborn, Scipy)
@@ -57,13 +76,15 @@ Clean and preprocess the dataset by handling missing values, encoding categorica
 
 <h2><a herf = "#exploratory-data-analysis-eda"></a>Exploratory Data Ananlysis (EDA)</h2>
 
-<h2><a class= "#research-factors--key-findings"></a>Research Factors & Key Findings</h2>
+<h2><a class= "#research-factors"></a>Research Factors</h2>
 
 **Key Metrics Analysis: Analyse key performance and retention metrics such as length of service, average training score, awards won, previous year ratings, and KPIs met.**
 
 **Retention Trends Analysis: Assess retention trends based on age, education, department, and training.**
 
 **Predictive Insights: Based on the analysis, provide actionable recommendations to HR for improving employee retention and performance management strategies.**
+
+<h2><a class= "#key-findings"></a>\Key Findings</h2>
 
 - Employees with higher training scores and KPI achievement show longer retention 
 
