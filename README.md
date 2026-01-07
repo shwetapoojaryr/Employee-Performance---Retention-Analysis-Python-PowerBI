@@ -81,20 +81,19 @@ Encoded Categorical variables and consistency in data formatting.
 
 <img width="550" height="350" alt="image" src="https://github.com/user-attachments/assets/f1821aaf-91e0-47cc-818e-607f84b0fa99" />
 <img width="550" height="350" alt="image" src="https://github.com/user-attachments/assets/950b57e0-9dc6-4071-a9f5-4c744addbc9c" />
-<img width="550" height="350" alt="image" src="https://github.com/user-attachments/assets/f3f04d71-a4d7-4e43-953d-4175a816b5d6" />
-<img width="550" height="350" alt="image" src="https://github.com/user-attachments/assets/ac7b0c4c-a891-4680-8c33-27fd1d698dd0" />
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/f3f04d71-a4d7-4e43-953d-4175a816b5d6" />
+<img width="530" height="330" alt="image" src="https://github.com/user-attachments/assets/ac7b0c4c-a891-4680-8c33-27fd1d698dd0" />
 
 **Outlier detection using seaborn library.**
 
-<img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/664fc842-ded2-47b6-8600-23f090487723" />
-<img width="520" height="430" alt="image" src="https://github.com/user-attachments/assets/088709bc-defe-4332-921a-690b8d5ce1d1" />
+<img width="440" height="350" alt="image" src="https://github.com/user-attachments/assets/664fc842-ded2-47b6-8600-23f090487723" />
+<img width="440" height="330" alt="image" src="https://github.com/user-attachments/assets/088709bc-defe-4332-921a-690b8d5ce1d1" />
 
 <h2><a class= "#key-metric-analysis"></a>Key Metric Analysis</h2>
 
 - Summarizing performance metrics by creating a performance_metrics table 
 <img width="661" height="280" alt="image" src="https://github.com/user-attachments/assets/6b80df18-c3f9-4d93-99a1-a33934e8ddda" />
 <img width="559" height="727" alt="image" src="https://github.com/user-attachments/assets/839cec72-f0f7-4bf4-bc2b-92b5fa82f79e" />
-<img width="590" height="410" alt="image" src="https://github.com/user-attachments/assets/6c09f80e-470d-4d20-8bd6-fd931d2bbbaa" />
 
 - Analysing key metrics such as KPI Achievements vs performance, awards impact on performance,length of service analysis 
 <img width="450" height="320" alt="image" src="https://github.com/user-attachments/assets/55d05b54-834b-4431-839f-926234708888" />
