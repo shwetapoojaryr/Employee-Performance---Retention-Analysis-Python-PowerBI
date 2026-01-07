@@ -41,17 +41,17 @@ Specifically, the project aims to:
 - Columns: 13
 - Key Features :  Employee Identifier (employee_id)
    
-                  Organizational Attributes (department, region)
+  Organizational Attributes (department, region)
   
-                  Demographic Features (education, gender, age)
+  Demographic Features (education, gender, age)
    
-                  Recruitment Information (recruitment_channel)
+  Recruitment Information (recruitment_channel)
   
-                  Training & Development (avg_training_score, no_of_trainings)
+  Training & Development (avg_training_score, no_of_trainings)
    
-                  Performance Metrics (KPIs_met_more_than_80, previous_year_rating) 
+  Performance Metrics (KPIs_met_more_than_80, previous_year_rating) 
 
-                  Recognition & Experience (length_of_service,  awards_won) 
+  Recognition & Experience (length_of_service,  awards_won) 
 
 - Missing Data: 771 values in education column & 1363 in previous_year_rating column. 
 
