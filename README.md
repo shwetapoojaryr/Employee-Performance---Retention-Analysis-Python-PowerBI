@@ -97,7 +97,7 @@ Encoded Categorical variables and consistency in data formatting.
 
 - Analysing key metrics such as KPI Achievements vs performance, awards impact on performance,length of service analysis 
 <img width="450" height="320" alt="image" src="https://github.com/user-attachments/assets/55d05b54-834b-4431-839f-926234708888" />
-<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/34dd9892-0d09-4acf-a007-3591ea32ad39" />
+<img width="450" height="500" alt="image" src="https://github.com/user-attachments/assets/34dd9892-0d09-4acf-a007-3591ea32ad39" />
 
 - Retention Trends Analysis 
 Trend analysis assuming longer length of service = higher retention 
