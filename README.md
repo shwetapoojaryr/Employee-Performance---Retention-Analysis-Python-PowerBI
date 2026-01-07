@@ -8,7 +8,7 @@ Analysed employee performance and retention patterns using HR data to uncover fa
 - <a herf = "#tools--technologies">Tools & Technology</a>
 - <a herf = "#project-structure">Project Structure</a>
 - <a herf = "#data-cleaning--preparation">Data Cleaning & Preparation</a>
-- <a herf = "#research-questions--key-findings">Research Questions & Key Findings</a>
+- <a herf = "#research-questions--key-findings">Key Findings</a>
 - <a herf = "#dashboard">Dashboard</a>
 - <a herf = "#how-to-run-this-project">How to Run this Project</a>
 - <a herf = "#final-recommendations">Final Recommendations</a>
@@ -46,7 +46,7 @@ Methods
 
 <h2><a class="anchor" id ="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
 
-<h2><a class= "#research-questions--key-findings"></a><!--Research Questions--> & Key Findings</h2>
+<h2><a class= "#research-questions--key-findings"></a><!--Research Questions &--> Key Findings</h2>
 
 Employees with higher training scores and KPI achievement show longer retention 
 
