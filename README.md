@@ -1,11 +1,11 @@
 # Employee-Performance-and-Retention-Analysis
 
-Analysed employee performance and retention patterns using HR data to uncover factors influencing productivity, engagement, and employee tenure, to help organizations reduce turnover and improve workforce efficiency through data-driven insights using Python Libraries, Jupyter Notebook, and Power BI.
+Analysed employee performance and retention patterns using HR data to uncover factors influencing productivity, engagement, and employee tenure, to help organizations reduce turnover and improve workforce efficiency through data-driven insights using Python, Jupyter Notebook, and Power BI.
 ## Table of Contents
 - <a herf = "#overview">Overview</a>
 - <a herf = "#business-problem">Business Problem</a>
 - <a herf = "#dataset">Dataset</a>
-- <a herf = "#tools--technology">Tools & Technology</a>
+- <a herf = "#tools--technologies">Tools & Technology</a>
 - <a herf = "#project-structure">Project Structure</a>
 - <a herf = "#data-cleaning--preparation">Data Cleaning & Preparation</a>
 - <a herf = "#research-questions--key-findings">Research Questions & Key Findings</a>
@@ -18,7 +18,7 @@ Analysed employee performance and retention patterns using HR data to uncover fa
 
 This project focuses on analysing employee performance and retention patterns within an organisation. By leveraging HR data, the goal is to identify key factors influencing employee productivity, performance, and retention, and provide actionable insights for improving workforce efficiency, reducing turnover, and fostering a positive work environment. The project will employ data analysis techniques, including exploratory data analysis (EDA), trend analysis, and visualisation to help HR managers make data-driven decisions for workforce management. 
 
-<h2><a class = "anchor" id='business-problem'></a>Business Problem</h2>
+<h2><a class = "anchor" id="business-problem"></a>Business Problem</h2>
 
 The objective of this project is to analyse HR data to assess employee performance, identify trends influencing retention, and provide recommendations for improving employee productivity and reducing turnover.
 
@@ -30,12 +30,11 @@ Specifically, the project aims to:
 
 ● Provide recommendations for improving employee engagement and retention strategies by analysing the relationship between key employee metrics. 
 
-Datasets:
+<h2><a class ="anchor" id ="dataset"></a>Dataset</h2>
 
 [Employee Dataset](https://github.com/shwetapoojaryr/Employee-Performance---Retention-Analysis-Python-PowerBI/blob/main/employees_dataset.csv)
 
-<!--
-Tools and Technologies:
+<h2><a class ="anchor" id ="tools--technologies"></a>Tools and Technologies</h2>
 
 Python
 
@@ -43,14 +42,19 @@ Power BI
 
 Methods
 
-Key Insights
+<h2><a class="anchor" id ="project-structure"></a>Project Structure</h2>
 
-Dashboards/model/output
+<h2><a class="anchor" id ="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
 
-How to Run this Project
+<h2><a class= "#research-questions--key-findings"></a>Research Questions & Key Findings</h2>
 
-Results and Conclusion
+<h2><a class= "#dashboard"></a>Dashboard</h2>
 
-author & contact
+<h2><a class= "#how-to-run-this-project"></a>How to Run this Project</h2>
+
+<h2><a class= "#final-recommendations"></a>Final Recommendations</h2>
+
+<h2><a class= "#author--contact"></a>Author & Contact</h2>
+
 
 -->
