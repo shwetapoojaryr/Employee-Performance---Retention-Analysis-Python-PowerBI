@@ -10,7 +10,7 @@ Analysed employee performance and retention patterns using HR data to uncover fa
 - <a herf = "#project-structure">Project Structure</a>
 - <a herf = "#data-cleaning--preparation">Data Cleaning & Preparation</a>
 - <a herf = "#exploratory-data-analysis-eda">Exploratory Data Ananlysis (EDA)</a>
-- <a herf = "#key-findings">Key Findings</a>
+- <a herf = "#research-factors-key-findings">Research Factors & Key Findings</a>
 - <a herf = "#visualisations--dashboard">Dashboard</a>
 - <a herf = "#how-to-run-this-project">How to Run this Project</a>
 - <a herf = "#final-recommendations">Final Recommendations</a>
@@ -55,23 +55,25 @@ Data Preprocessing:
 
 Clean and preprocess the dataset by handling missing values, encoding categorical variables, and ensuring consistency in data formatting. 
 
+<h2><a herf = "#exploratory-data-analysis-eda"></a>Exploratory Data Ananlysis (EDA)</h2>
 
-<h2><a class= "#research-questions--key-findings"></a><!--Research Questions &--> Key Findings</h2>
-- Key Metrics Analysis: Analyse key performance and retention metrics such as length of service, average training score, awards won, previous year ratings, and KPIs met.
+<h2><a class= "#research-factors--key-findings"></a>Research Factors & Key Findings</h2>
 
-- Retention Trends Analysis: Assess retention trends based on age, education, department, and training.
+**Key Metrics Analysis: Analyse key performance and retention metrics such as length of service, average training score, awards won, previous year ratings, and KPIs met.**
 
-- Predictive Insights: Based on the analysis, provide actionable recommendations to HR for improving employee retention and performance management strategies.
+**Retention Trends Analysis: Assess retention trends based on age, education, department, and training.**
 
-Employees with higher training scores and KPI achievement show longer retention 
+**Predictive Insights: Based on the analysis, provide actionable recommendations to HR for improving employee retention and performance management strategies.**
 
-Award-winning employees consistently outperform peers 
+- Employees with higher training scores and KPI achievement show longer retention 
 
-Mid-career age groups (30–40) show the highest retention 
+- Award-winning employees consistently outperform peers 
 
-Certain departments have shorter service lengths, indicating engagement gaps 
+- Mid-career age groups (30–40) show the highest retention 
 
-Employees with lower previous year ratings are more likely to exit early 
+- Certain departments have shorter service lengths, indicating engagement gaps 
+
+- Employees with lower previous year ratings are more likely to exit early 
 
 <h2><a class= "#visualisations--dashboard"></a>Visualisations & Dashboard</h2>
 
