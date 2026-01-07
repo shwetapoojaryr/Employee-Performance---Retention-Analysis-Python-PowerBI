@@ -3,16 +3,16 @@
 Analysed employee performance and retention patterns using HR data to uncover factors influencing productivity, engagement, and employee tenure, to help organizations reduce turnover and improve workforce efficiency through data-driven insights using Python Libraries, Jupyter Notebook, and Power BI.
 ## Table of Contents
 - <a herf = "#overview">Overview</a>
-<a herf = "#business-problem">Business Problem</a>
-<a herf = "#dataset">Dataset</a>
-<a herf = "#tools--technology">Tools & Technology</a>
-<a herf = "#project-structure">Project Structure</a>
-<a herf = "#data-cleaning--preparation">Data Cleaning & Preparation</a>
-<a herf = "#research-questions--key-findings">Research Questions & Key Findings</a>
-<a herf = "#dashboard">Dashboard</a>
-<a herf = "#how-to-run-this-project">How to Run this Project</a>
-<a herf = "#final-recommendations">Final Recommendations</a>
-<a herf = "#author--contact">Author & Contact</a>
+- <a herf = "#business-problem">Business Problem</a>
+- <a herf = "#dataset">Dataset</a>
+- <a herf = "#tools--technology">Tools & Technology</a>
+- <a herf = "#project-structure">Project Structure</a>
+- <a herf = "#data-cleaning--preparation">Data Cleaning & Preparation</a>
+- <a herf = "#research-questions--key-findings">Research Questions & Key Findings</a>
+- <a herf = "#dashboard">Dashboard</a>
+- <a herf = "#how-to-run-this-project">How to Run this Project</a>
+- <a herf = "#final-recommendations">Final Recommendations</a>
+- <a herf = "#author--contact">Author & Contact</a>
 
 <h2><a class="anchor" id="overview"></a> Overview</h2>
 
