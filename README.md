@@ -40,11 +40,12 @@ Python
 
 Power BI
 
-Methods
 
 <h2><a class="anchor" id ="project-structure"></a>Project Structure</h2>
 
+
 <h2><a class="anchor" id ="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
+
 
 <h2><a class= "#research-questions--key-findings"></a><!--Research Questions &--> Key Findings</h2>
 
@@ -59,6 +60,7 @@ Certain departments have shorter service lengths, indicating engagement gaps
 Employees with lower previous year ratings are more likely to exit early 
 
 <h2><a class= "#dashboard"></a>Dashboard</h2>
+
 
 <h2><a class= "#how-to-run-this-project"></a>How to Run this Project</h2>
 
@@ -77,3 +79,8 @@ HR Recommendations:
 5. Invest in continuous learning for employees with high potential but low ratings. 
 
 <h2><a class= "#author--contact"></a>Author & Contact</h2>
+Shweta Poojary
+Data Analyst
+Email: [shwetapoojarywm@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJfnbBsDhptFzTBlpndwZPMFzQXnwPNRWgnJLpfgZzRkwxMznKFvQnWCljDJKtlJwJBBNnq)
+[LinkedIn](https://www.linkedin.com/in/shweta-p-176861295/)
+[Portfolio]()
