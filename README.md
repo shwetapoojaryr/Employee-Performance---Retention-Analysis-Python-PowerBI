@@ -58,54 +58,43 @@ Specifically, the project aims to:
 
 <h2><a class="anchor" id ="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
 
-**Data Preprocessing**
-
-Handling of the missing values with fillna(), median(), & mode () functions 
+Handled the missing values with fillna(), median(), & mode () functions 
 <img width="448" height="403" alt="image" src="https://github.com/user-attachments/assets/583dee76-6786-44db-9f4f-073eb9c79a5a" />
 
-Encoding Categorical variables and ensuring consistency in data formatting.
+Encoded Categorical variables and consistency in data formatting.
 <img width="730" height="221" alt="image" src="https://github.com/user-attachments/assets/fc9ddf7b-e5d8-450e-a8a2-c6ca5b89678a" />
 
 <h2><a herf = "#exploratory-data-analysis-eda"></a>Exploratory Data Ananlysis (EDA)</h2>
 
-Initial Exploration: Used df.info() to check structure and .describe() for summary statistics.  
+**Initial Exploration: Used df.info() to check structure and .describe() for summary statistics.**
 <img width="459" height="396" alt="image" src="https://github.com/user-attachments/assets/f4857dce-de20-4b61-9b35-27c4a48f55de" />
 <img width="729" height="294" alt="image" src="https://github.com/user-attachments/assets/5544b774-9550-4848-9ea2-1de17a4461e2" />
 
-Found the missing and duplicate values in the dataset using isnull() and duplicated() functions. 
+**Found the missing and duplicate values in the dataset using isnull() and duplicated() functions.** 
 <img width="440" height="515" alt="image" src="https://github.com/user-attachments/assets/a4cef920-6129-4be8-9af7-47195dfab961" />
 
-Found the distribution of key numerical variables and categorical variables 
+**Found the distribution of key numerical variables and categorical variables.**
 <img width="708" height="504" alt="image" src="https://github.com/user-attachments/assets/f1821aaf-91e0-47cc-818e-607f84b0fa99" />
 <img width="646" height="408" alt="image" src="https://github.com/user-attachments/assets/950b57e0-9dc6-4071-a9f5-4c744addbc9c" />
 <img width="594" height="473" alt="image" src="https://github.com/user-attachments/assets/f3f04d71-a4d7-4e43-953d-4175a816b5d6" />
 <img width="654" height="414" alt="image" src="https://github.com/user-attachments/assets/ac7b0c4c-a891-4680-8c33-27fd1d698dd0" />
 
-Outlier detection using seaborn library. 
+**Outlier detection using seaborn library.** 
 <img width="541" height="417" alt="image" src="https://github.com/user-attachments/assets/664fc842-ded2-47b6-8600-23f090487723" />
 <img width="591" height="483" alt="image" src="https://github.com/user-attachments/assets/088709bc-defe-4332-921a-690b8d5ce1d1" />
 
 <h2><a class= "#research-factors"></a>Research Factors</h2>
 
-**Key Metrics Analysis: Analyse key performance and retention metrics such as length of service, average training score, awards won, previous year ratings, and KPIs met.**
+Key Metrics Analysis: Analyse key performance and retention metrics such as length of service, average training score, awards won, previous year ratings, and KPIs met.
 
-**Retention Trends Analysis: Assess retention trends based on age, education, department, and training.**
+Retention Trends Analysis: Assess retention trends based on age, education, department, and training.
 
-**Predictive Insights: Based on the analysis, provide actionable recommendations to HR for improving employee retention and performance management strategies.**
+Predictive Insights: Based on the analysis, provide actionable recommendations to HR for improving employee retention and performance management strategies.
 
 <h2><a class= "#key-findings"></a>Key Findings</h2>
 
-- Employees with higher training scores and KPI achievement show longer retention 
-
-- Award-winning employees consistently outperform peers 
-
-- Mid-career age groups (30–40) show the highest retention 
-
-- Certain departments have shorter service lengths, indicating engagement gaps 
-
-- Employees with lower previous year ratings are more likely to exit early
-
 **Workforce Overview**
+
 - Employees are mostly in the early to mid-career range (20–40 years). 
 - Distribution across departments and regions varies, highlighting operational concentration risks. 
 - Recruitment channels influence performance outcomes, indicating differences in candidate quality.
@@ -115,6 +104,22 @@ Outlier detection using seaborn library.
 - High training scores, KPI achievement, and awards strongly correlate with better performance. 
 - Consistent performers continue to excel year-over-year. 
 - Departments with lower performance may need targeted interventions.
+  
+**Retention Trends Insights**
+
+- High retention: Employees aged 30–40, award winners, and consistent KPI achievers. 
+- Retention risk: Early-career employees (20–30), low KPI achievers, and employees in certain departments with shorter tenure. 
+- Effective training and recognition directly improve retention.
+
+Employees with higher training scores and KPI achievement show longer retention 
+
+Award-winning employees consistently outperform peers 
+
+Mid-career age groups (30–40) show the highest retention 
+
+Certain departments have shorter service lengths, indicating engagement gaps 
+
+Employees with lower previous year ratings are more likely to exit early
 
 <h2><a class= "#key-metric-analysis"></a>Key Metric Analysis</h2>
 
@@ -132,11 +137,6 @@ Trend analysis assuming longer length of service = higher retention
 Analysing retention by age group, education, department, training impact on retention. 
 <img width="649" height="812" alt="image" src="https://github.com/user-attachments/assets/748587ad-9e93-4d71-b3f8-dfa197e01034" />
 <img width="685" height="836" alt="image" src="https://github.com/user-attachments/assets/c232ead2-f2af-442a-8d03-e17f9d78a4ff" />
-
-**Retention Trends Insights**
-- High retention: Employees aged 30–40, award winners, and consistent KPI achievers. 
-- Retention risk: Early-career employees (20–30), low KPI achievers, and employees in certain departments with shorter tenure. 
-- Effective training and recognition directly improve retention.
 
 <h2><a class= "#Dashboard"></a>Dashboard</h2>
 <img width="1311" height="734" alt="image" src="https://github.com/user-attachments/assets/af233421-224e-4531-9bb3-8746dbb9aac6" />
