@@ -1,6 +1,7 @@
 # Employee-Performance-and-Retention-Analysis
 
 Analysed employee performance and retention patterns using HR data to uncover factors influencing productivity, engagement, and employee tenure, to help organizations reduce turnover and improve workforce efficiency through data-driven insights using Python, Jupyter Notebook, and Power BI.
+
 ## Table of Contents
 - <a herf = "#overview">Overview</a>
 - <a herf = "#business-problem">Business Problem</a>
@@ -8,8 +9,9 @@ Analysed employee performance and retention patterns using HR data to uncover fa
 - <a herf = "#tools--technologies">Tools & Technology</a>
 - <a herf = "#project-structure">Project Structure</a>
 - <a herf = "#data-cleaning--preparation">Data Cleaning & Preparation</a>
-- <a herf = "#research-questions--key-findings">Key Findings</a>
-- <a herf = "#dashboard">Dashboard</a>
+- <a herf = "#exploratory-data-analysis-eda">Exploratory Data Ananlysis (EDA)</a>
+- <a herf = "#key-findings">Key Findings</a>
+- <a herf = "#visualisations--dashboard">Dashboard</a>
 - <a herf = "#how-to-run-this-project">How to Run this Project</a>
 - <a herf = "#final-recommendations">Final Recommendations</a>
 - <a herf = "#author--contact">Author & Contact</a>
@@ -36,18 +38,30 @@ Specifically, the project aims to:
 
 <h2><a class ="anchor" id ="tools--technologies"></a>Tools and Technologies</h2>
 
-Python
+- Python (Pandas, Matplotlib, Seaborn, Scipy)
 
-Power BI
+- Jupyter Notebook
 
+- Power BI (Interactive Visualisations)
+
+- GitHub
 
 <h2><a class="anchor" id ="project-structure"></a>Project Structure</h2>
 
 
 <h2><a class="anchor" id ="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
 
+Data Preprocessing: 
+
+Clean and preprocess the dataset by handling missing values, encoding categorical variables, and ensuring consistency in data formatting. 
+
 
 <h2><a class= "#research-questions--key-findings"></a><!--Research Questions &--> Key Findings</h2>
+- Key Metrics Analysis: Analyse key performance and retention metrics such as length of service, average training score, awards won, previous year ratings, and KPIs met.
+
+- Retention Trends Analysis: Assess retention trends based on age, education, department, and training.
+
+- Predictive Insights: Based on the analysis, provide actionable recommendations to HR for improving employee retention and performance management strategies.
 
 Employees with higher training scores and KPI achievement show longer retention 
 
@@ -59,14 +73,13 @@ Certain departments have shorter service lengths, indicating engagement gaps
 
 Employees with lower previous year ratings are more likely to exit early 
 
-<h2><a class= "#dashboard"></a>Dashboard</h2>
+<h2><a class= "#visualisations--dashboard"></a>Visualisations & Dashboard</h2>
 
 
 <h2><a class= "#how-to-run-this-project"></a>How to Run this Project</h2>
 
-<h2><a class= "#final-recommendations"></a>Final Recommendations</h2>
 
-HR Recommendations:
+<h2><a class= "#final-recommendations"></a>Final HR Recommendations</h2>
 
 1. Increase targeted training programs for low-performing departments. 
 
@@ -79,7 +92,9 @@ HR Recommendations:
 5. Invest in continuous learning for employees with high potential but low ratings. 
 
 <h2><a class= "#author--contact"></a>Author & Contact</h2>
-Shweta Poojary
+
+**Shweta Poojary**
+
 Data Analyst
 
 Email: [shwetapoojarywm@gmail.com](mailto:shwetapoojarywm@gmail.com)
