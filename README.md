@@ -82,7 +82,7 @@ HR Recommendations:
 Shweta Poojary
 Data Analyst
 
-Email: [shwetapoojarywm@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJfnbBsDhptFzTBlpndwZPMFzQXnwPNRWgnJLpfgZzRkwxMznKFvQnWCljDJKtlJwJBBNnq)
+Email: [shwetapoojarywm@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJfnbBsDhptFzTBlpndwZPMFzQXnwPNRWgnJLpfgZzRkwxMznKFvQnWCljDJKtlJwJBBNnq](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWrRpccgnjgCdKmQqhgwvlBrrJNcZWLmrbmvzfkChlBHLNdRjGwWSTmbqjCzKGMMXKwDRLMmB)
 
 [LinkedIn](https://www.linkedin.com/in/shweta-p-176861295/)
 
