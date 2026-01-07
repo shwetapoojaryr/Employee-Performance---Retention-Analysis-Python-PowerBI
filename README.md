@@ -1,4 +1,4 @@
-<img width="609" height="787" alt="image" src="https://github.com/user-attachments/assets/839cec72-f0f7-4bf4-bc2b-92b5fa82f79e" /><img width="649" height="467" alt="image" src="https://github.com/user-attachments/assets/6c09f80e-470d-4d20-8bd6-fd931d2bbbaa" /># Employee-Performance-and-Retention-Analysis
+# Employee-Performance-and-Retention-Analysis
 
 Analysed employee performance and retention patterns using HR data to uncover factors influencing productivity, engagement, and employee tenure, to help organizations reduce turnover and improve workforce efficiency through data-driven insights using Python, Jupyter Notebook, and Power BI.
 
@@ -115,7 +115,8 @@ Found the distribution of key numerical variables and categorical variables
 
 Summarizing performance metrics by creating a performance_metrics table 
 <img width="721" height="308" alt="image" src="https://github.com/user-attachments/assets/6b80df18-c3f9-4d93-99a1-a33934e8ddda" />
-
+<img width="609" height="787" alt="image" src="https://github.com/user-attachments/assets/839cec72-f0f7-4bf4-bc2b-92b5fa82f79e" />
+<img width="649" height="467" alt="image" src="https://github.com/user-attachments/assets/6c09f80e-470d-4d20-8bd6-fd931d2bbbaa" />
 Analysing key metrics such as KPI Achievements vs performance, awards impact on performance,length of service analysis 
 <img width="567" height="401" alt="image" src="https://github.com/user-attachments/assets/55d05b54-834b-4431-839f-926234708888" />
 <img width="609" height="787" alt="image" src="https://github.com/user-attachments/assets/34dd9892-0d09-4acf-a007-3591ea32ad39" />
