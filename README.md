@@ -10,9 +10,9 @@ Analysed employee performance and retention patterns using HR data to uncover fa
 - <a herf = "#project-structure">Project Structure</a>
 - <a herf = "#data-cleaning--preparation">Data Cleaning & Preparation</a>
 - <a herf = "#exploratory-data-analysis-eda">Exploratory Data Ananlysis (EDA)</a>
+- <a herf = "#key-metric-analysis">Key Metric Analysis</a>
 - <a herf = "#research-factors">Research Factors</a>
 - <a herf = "#key-findings">Key Findings</a>
-- <a herf = "#key-metric-analysis">Key Metric Analysis</a>
 - <a herf = "#dashboard">Dashboard</a>
 - <a herf = "#how-to-run-this-project">How to Run this Project</a>
 - <a herf = "#final-recommendations">Final Recommendations</a>
@@ -89,6 +89,23 @@ Encoded Categorical variables and consistency in data formatting.
 <img width="541" height="417" alt="image" src="https://github.com/user-attachments/assets/664fc842-ded2-47b6-8600-23f090487723" />
 <img width="591" height="483" alt="image" src="https://github.com/user-attachments/assets/088709bc-defe-4332-921a-690b8d5ce1d1" />
 
+<h2><a class= "#key-metric-analysis"></a>Key Metric Analysis</h2>
+
+- Summarizing performance metrics by creating a performance_metrics table 
+<img width="721" height="308" alt="image" src="https://github.com/user-attachments/assets/6b80df18-c3f9-4d93-99a1-a33934e8ddda" />
+<img width="609" height="787" alt="image" src="https://github.com/user-attachments/assets/839cec72-f0f7-4bf4-bc2b-92b5fa82f79e" />
+<img width="649" height="467" alt="image" src="https://github.com/user-attachments/assets/6c09f80e-470d-4d20-8bd6-fd931d2bbbaa" />
+
+- Analysing key metrics such as KPI Achievements vs performance, awards impact on performance,length of service analysis 
+<img width="567" height="401" alt="image" src="https://github.com/user-attachments/assets/55d05b54-834b-4431-839f-926234708888" />
+<img width="609" height="787" alt="image" src="https://github.com/user-attachments/assets/34dd9892-0d09-4acf-a007-3591ea32ad39" />
+
+- Retention Trends Analysis 
+Trend analysis assuming longer length of service = higher retention 
+Analysing retention by age group, education, department, training impact on retention. 
+<img width="649" height="812" alt="image" src="https://github.com/user-attachments/assets/748587ad-9e93-4d71-b3f8-dfa197e01034" />
+<img width="685" height="836" alt="image" src="https://github.com/user-attachments/assets/c232ead2-f2af-442a-8d03-e17f9d78a4ff" />
+
 <h2><a class= "#research-factors"></a>Research Factors</h2>
 
 Key Metrics Analysis: Analyse key performance and retention metrics such as length of service, average training score, awards won, previous year ratings, and KPIs met.
@@ -126,23 +143,6 @@ Predictive Insights: Based on the analysis, provide actionable recommendations t
 **Certain departments have shorter service lengths, indicating engagement gaps** 
 
 **Employees with lower previous year ratings are more likely to exit early**
-
-<h2><a class= "#key-metric-analysis"></a>Key Metric Analysis</h2>
-
-- Summarizing performance metrics by creating a performance_metrics table 
-<img width="721" height="308" alt="image" src="https://github.com/user-attachments/assets/6b80df18-c3f9-4d93-99a1-a33934e8ddda" />
-<img width="609" height="787" alt="image" src="https://github.com/user-attachments/assets/839cec72-f0f7-4bf4-bc2b-92b5fa82f79e" />
-<img width="649" height="467" alt="image" src="https://github.com/user-attachments/assets/6c09f80e-470d-4d20-8bd6-fd931d2bbbaa" />
-
-- Analysing key metrics such as KPI Achievements vs performance, awards impact on performance,length of service analysis 
-<img width="567" height="401" alt="image" src="https://github.com/user-attachments/assets/55d05b54-834b-4431-839f-926234708888" />
-<img width="609" height="787" alt="image" src="https://github.com/user-attachments/assets/34dd9892-0d09-4acf-a007-3591ea32ad39" />
-
-- Retention Trends Analysis 
-Trend analysis assuming longer length of service = higher retention 
-Analysing retention by age group, education, department, training impact on retention. 
-<img width="649" height="812" alt="image" src="https://github.com/user-attachments/assets/748587ad-9e93-4d71-b3f8-dfa197e01034" />
-<img width="685" height="836" alt="image" src="https://github.com/user-attachments/assets/c232ead2-f2af-442a-8d03-e17f9d78a4ff" />
 
 <h2><a class= "#Dashboard"></a>Dashboard</h2>
 <img width="1311" height="734" alt="image" src="https://github.com/user-attachments/assets/af233421-224e-4531-9bb3-8746dbb9aac6" />
