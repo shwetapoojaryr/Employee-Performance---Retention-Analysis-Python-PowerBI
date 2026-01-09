@@ -168,4 +168,4 @@ Email: [shwetapoojarywm@gmail.com](mailto:shwetapoojarywm@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/shweta-p-176861295/)
 
-[Portfolio]([https://github.com/shwetapoojaryr](https://shwetapoojaryr.github.io/Employee-Performance---Retention-Analysis-Python-PowerBI/))
+[Portfolio](https://shwetapoojaryr.github.io/Employee-Performance---Retention-Analysis-Python-PowerBI/)
