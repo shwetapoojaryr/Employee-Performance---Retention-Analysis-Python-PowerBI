@@ -53,9 +53,6 @@ Specifically, the project aims to:
 
 - GitHub
 
-<h2><a class="anchor" id ="project-structure"></a>Project Structure</h2>
-
-
 <h2><a class="anchor" id ="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
 
 Handled the missing values with fillna(), median(), & mode () functions 
